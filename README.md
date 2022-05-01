@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcstae)](https://github.com/anuraghazra/github-readme-stats)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcstae&show_icons=true&theme=dark)
 
 <!---
 the-citizenfour/the-citizenfour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
