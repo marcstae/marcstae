@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://ko-fi.com/marcstae" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
 
 
-<table width="100%"> 
-  <tr>
   <td width="50%">
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/y80uygtkyq7oaxnpm656wccx7?si=7e1c34cf639b4038)
@@ -16,5 +14,3 @@ You can click the Preview link to take a look at your changes.
   </td>
 
     
-    
-    &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/y80uygtkyq7oaxnpm656wccx7?si=7e1c34cf639b4038)
